@@ -1,2 +1,2 @@
 # spaceAppsChallenge2021-Detecci-n-de-micropl-ticos
-En este proyecto se plantea un modelo de detección y pronóstico de dispersión de residuos plásticos en medio marino
+Using the "Debris Tracker" application, data plastics shared and registered in the last year was obtained. This information was transferred to "Shapefile" to make a better representation and handling of the data. Images were generated per month to build a database so that "AI" detects the behavior of the residues. Subsequently, the "Flexpart" model is used to create a dispersion model of the data.
